@@ -1,2 +1,2 @@
 # secondhand-car-price-prediction
-data analytics project
+data analytics
